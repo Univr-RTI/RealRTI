@@ -1,0 +1,15 @@
+Real RTI 
+dataset of calibrated images from RTI acquisitions
+
+item1: wooden door, painted (thanks to Accademia delle BelleArti Verona) - Light dome
+item2: fresco fragment (thanks to Accademia delle BelleArti Verona) - Light dome
+item3: painted icon - San Michele - (thanks to Scan4Reco project) - handheld
+item4: painted icon - Demetrios - (thanks to Scan4Reco project) - handheld
+item5: canvas painting (fattori) - Handheld
+item6: canvas painting (marina) - Dome
+item7: relief on clay (leaf) - Dome
+item8: relief on clay (shell) - Dome
+item9: coin - Dome
+item10: coin - Dome
+item11: Metallic statue - handheld 
+item12: Metallic statue - Dome
